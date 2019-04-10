@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-bottom: 30;
+}
+
+img{
+    margin-top: 20vh; 
+    /* vh é o tamanho em relação a tela */
+}

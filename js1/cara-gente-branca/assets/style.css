@@ -1,0 +1,17 @@
+body{
+    margin: 0%;
+    background-color: black;
+    text-align: center;
+}
+
+.logo{
+    height: 50vw;
+    margin-top: 70px;
+}
+
+.botao{
+    width: 10vw;
+    margin: 0 auto;
+    display: block;
+    
+}
