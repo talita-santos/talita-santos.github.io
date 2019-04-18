@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+   background-color: whitesmoke
+}
+
+button {
+    background-color: purple;
+    border: none;
+    font-family: sans-serif;
+    color: #000;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 50px;
+}
+
+#resultado {
+    text-align: center;
+    font-size: 50px;
+    margin: 80px
+}
+
+#personalidades {
+    display: flex;
+    flex-direction: column;
+}
+
