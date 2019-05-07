@@ -1,0 +1,11 @@
+.navbar-header {
+    float: left;
+    padding: 3px; /*opcional*/
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-brand {
+    position: absolute;
+    float: none;
+}
